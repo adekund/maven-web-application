@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project30 automation.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
+<h1 align="center">Welcome to Netflix Nigeria.</h1>
+<h1 align="center">We are developing and supporting quality content to millions of clients globally.
+	           All this through IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
