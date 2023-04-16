@@ -22,7 +22,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:3.95.170.120:9000/</sonar.host.url>
+		<sonar.host.url>http:172.31.0.244:9000/</sonar.host.url>
 	        <sonar.login>66e1a495694578f7d3322799efc108ea91958b2c</sonar.login>
                 <!-- <sonar.password>admin</sonar.password> -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -33,7 +33,7 @@
          <repository>
             <id>nexus</id>
             <name>nexus proxy repo</name>
-            <url>http://54.242.216.155:8081/repository/netflix-proxy/</url>
+            <url>http://172.31.0.64:8081/repository/netflix-proxy/</url>
          </repository>
        </repositories>
         
@@ -103,19 +103,19 @@
 	    <repository>
 	      <id>nexus</id>
               <name>Netflix Releases Nexus Repository</name>
-              <url>http://54.242.216.155:8081/repository/netflix-releases/</url>
+              <url>http://172.31.0.64:8081/repository/netflix-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
               <name>Netflix Snapshot Nexus Repository </name>
-              <url>http://54.242.216.155:8081/repository/netflix-snapshots/</url>
+              <url>http://172.31.0.64:8081/repository/netflix-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>Uprise_app</finalName>
 		
 		<plugins>
 			<plugin>
