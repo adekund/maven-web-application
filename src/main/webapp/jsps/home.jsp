@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Netflix Nigeria.</h1>
 <h1 align="center">We are developing and supporting quality content to millions of clients globally.
 	           All this through IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	Our mission is to provide a platform for people around the world to be apart of.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
