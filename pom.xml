@@ -33,7 +33,7 @@
          <repository>
             <id>nexus</id>
             <name>nexus proxy repo</name>
-            <url>http://172.31.0.64:8081/repository/netflix-proxy/</url>
+            <url>http://172.31.0.58:8081/repository/netflix-proxy/</url>
          </repository>
        </repositories>
         
@@ -103,13 +103,13 @@
 	    <repository>
 	      <id>nexus</id>
               <name>Netflix Releases Nexus Repository</name>
-              <url>http://172.31.0.64:8081/repository/netflix-releases/</url>
+              <url>http://172.31.0.58:8081/repository/netflix-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
               <name>Netflix Snapshot Nexus Repository </name>
-              <url>http://172.31.0.64:8081/repository/netflix-snapshots/</url>
+              <url>http://172.31.0.58:8081/repository/netflix-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
